@@ -13,3 +13,4 @@ Find the answers by exploring this repo on GitHub. You don't need to clone anyth
 7. 🏆 Bonus: run `python -m textkit attendance 30 50`. The docs say the answer is 30. What do you get?
 
 Done? Pick an issue labelled **good first issue** and make your first contribution!
+blah blah blah blah black sheep have you any wool?
